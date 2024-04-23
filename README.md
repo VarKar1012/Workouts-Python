@@ -1,6 +1,6 @@
-### Sample programs to workout in Python
+### Learn Python through Sample programs
 
-This is to give you an in-depth knowledge about Python concepts by working out questions (beginner level onwards).
+This is to give you an in-depth knowledge about Python concepts (beginner level onwards).
 
 To get section-wise key notes in python concepts and examples, ([section-wise programs](https://github.com/VarKar1012/Workouts-Python/tree/main/programs)).
 
